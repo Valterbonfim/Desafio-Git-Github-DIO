@@ -1,0 +1,13 @@
+ Introdução ao pensamento computacional
+ Logica de Programação 
+ Trabalho em Equipes Agil 
+ Introdução ao Git e Github
+ Logica Condicional e Controle de Fluxo em JAVA
+ Dominando IDEs JAVA 
+ Apredendo Sixtaxe JAVA
+ Estrtura de Repetição Arrays JAVA
+ Entendedo Metodo JAVA 
+ Programação Orienteda em Objetos JAVA
+ Banco de dados SQL e NoSQL
+ Produtividade Spring Framework.
+

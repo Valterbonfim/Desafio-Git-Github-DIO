@@ -1,0 +1,18 @@
+ 5 Desafios de Projeto  
+ - Criando seu Primeiro repositorio no Github atraves da funções Git.
+ - Abstraindo um Bootcamp utilizando Orientação em Objetos.
+ - Boas Pratica com DynamoDB.
+ - Conhecendo Spring Data JPA na Pratica com JAVA.
+ - Explorando padrões de Projeto na Prtaica com JAVA.
+
+10 Desafios de Codigo 
+- Fabrica de Carros. 
+- Imprimindo Positivos e Média.
+- Soma de H com N Termos.
+- Dragão!
+- Fibonnacci Fácil. 
+- Desafio Animal. 
+- Quintanda do Seu Zé. 
+- Triangulo. 
+- Conta Espaços e Vogais.
+- Taxa de Imposto de Renda.
